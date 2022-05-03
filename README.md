@@ -9,6 +9,6 @@
 🇰🇷 learning ...<a href="https://www.udemy.com/home/my-courses/learning/"><img src="https://img.shields.io/badge/learning-js-red"></a>
 
 ### Links 
-  ![Javascript](https://img.shields.io/badge/-learning-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=%&labelColor=black&color=$23ffce5a) make banner : https://shields.io/
+  make banner : https://shields.io/ ![Javascript](https://img.shields.io/badge/-learning-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=%&labelColor=black&color=$23ffce5a)
 
 
