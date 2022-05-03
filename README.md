@@ -6,9 +6,9 @@
 
 
 𖦣 <a href="https://www.especialist.org/0909"> nowing icanmart</a>
-I’m currently learning ...<a href="https://www.udemy.com/home/my-courses/learning/">udemy online<img src="https://img.shields.io/badge/learning-js-red"></a>
+🇰🇷 learning ...<a href="https://www.udemy.com/home/my-courses/learning/">udemy online<img src="https://img.shields.io/badge/learning-js-red"></a>
 
-### Links
+### Links 
   ![Javascript](https://img.shields.io/badge/-learning-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=%&labelColor=black&color=$23ffce5a) make banner : https://shields.io/
 
 
