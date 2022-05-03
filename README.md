@@ -8,4 +8,7 @@
 𖦣 <a href="https://www.especialist.org/0909"> nowing icanmart</a>
 I’m currently learning ...<a href="https://www.udemy.com/home/my-courses/learning/">udemy online</a>
 
+### Links
+make banner : https://shields.io/
+![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23f7Df1C&color=$23ffce5a)
 
