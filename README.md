@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="https://avatars.githubusercontent.com/u/22319355?v=4" width="100" />
+<img align="right" src="https://avatars.githubusercontent.com/u/22319355?v=4" width="150" />
 <h1> Letz </h1>
 <ul><li>
   Add One, Remove Two, Think Thrice
